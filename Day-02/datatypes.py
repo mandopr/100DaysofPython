@@ -24,7 +24,7 @@ print(False)        # False
 # ************* TYPE() *************
 
 # type() function is used to see which type of datatype does data holds.
-print(type(7))      # 7
-print(type(3.14))   # 3.14
-print(type("7"))    # "7"
-print(type(True))   # True
+print(type(7))      # <class 'int'>
+print(type(3.14))   # <class 'float'>
+print(type("7"))    # <class 'str'>
+print(type(True))   # <class 'bool'>
