@@ -12,7 +12,7 @@ print(age, type(age))           # <inputed age> <class 'str'>
 
 # here by default input function takes input in string format, even we have written number it will be returned as string
 # so we need to use type casting which means changing datatypes
-# tyoe casting can be done with the help of python built-in functions like str(), int(), float(), bool()
+# type casting can be done with the help of python built-in functions like str(), int(), float(), bool()
 # now we can change type of age with int() to integer
 print(type((int(age))))           # <inputed age> <class 'int'>
 
