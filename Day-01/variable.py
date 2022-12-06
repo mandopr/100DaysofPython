@@ -6,7 +6,7 @@
 name = input("Enter your name : ")
 print("Hello there " + name)            # Hello there <input_name>
 
-# NOTE : Remember variable doesn't store any value, it as referenece to that value in memoery which one printing prints it
+# NOTE : Remember variable doesn't store any value, it has referenece to that value in memory, which on printing(calling) prints it
 
 
 
@@ -22,7 +22,7 @@ print("Hello there " + name)            # Hello there John Doe
 
 # In python an identifier(name used for variables, function etc etc) should have proper name
 # An identifier can contain (a-z), (A-Z), (0-9), ( _ )
-# An identifier may have numbers in it but it can't be start with one.
+# An identifier may have numbers in it but it can't start with it.
 # Identifier with more than two words should be joined with _ . 
 # An identifier should be as discriptive as the value or operation it is going to perform
 
