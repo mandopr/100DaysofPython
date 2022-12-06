@@ -34,6 +34,7 @@ print("String" + " " + "Concatenation")         # String Concatenation
 
 
 # ************* String Indexing *************
+
 # we can access any string's character via help of indexing.
 # string is python iterable object (which we will focus on later), which means we can iterate over on.
 # indexing in python starts with 0 (not 1), so first element/character of iterable object is on 0th index and so on...
@@ -47,6 +48,7 @@ print("Hello"[-1])          # o
 
 
 # ************* F strings *************
+
 # concatenating string is shit tone of work to do, f-strings is your hero now
 '''
     all we need to do is simply put (f) before quotes in string and whenever you want to perform some operations
