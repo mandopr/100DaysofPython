@@ -17,7 +17,7 @@ from demo_mod import PI
 # randint() is function in random module which generates random integers between specified numbers (inclusive)
 print(random.randint(1,10)) 
 
-# random() is function in random module which generates a random number between 0.0-1.0 but 1.0 is exclusive 
+# random() is function in random module which generates a random number between 0.0 - 1.0 but 1.0 is exclusive 
 print(random.random())
 
 print(PI)
