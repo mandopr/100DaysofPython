@@ -23,7 +23,7 @@ print(False)        # False
 
 # ************* TYPE() *************
 
-# type() function is used to see which type of datatype does data holds.
+# type() function is used to see which type of datatype does variable holds.
 print(type(7))      # <class 'int'>
 print(type(3.14))   # <class 'float'>
 print(type("7"))    # <class 'str'>
